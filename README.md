@@ -1,4 +1,4 @@
-<img src="https://graph.org/file/cd2b471f3474d69740df5.jpg" alt="logo" target="/blank">
+<img src="https://graph.org/file/ce40071a936a4a17f365a.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://t.me/Straw_Hat_GC" target="/blank"> File Sharing Premium Bot </a></>
@@ -17,7 +17,7 @@
 * `DB_URL` Your mongo db url
 * `DB_NAME` Your mongo db session name
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
-* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot/blob/main/README.md#start_message'>fillings</a>
+* `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot-2fsub-auto-delete/blob/main/README.md#start_message'>fillings</a>
 * `FORCE_SUB_MESSAGE`Optional:Force sub message of bot, use HTML and Fillings
 * `FORCE_SUB_CHANNEL` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
 * `FORCE_SUB_CHANNEL2` Optional: ForceSub Channel ID, leave 0 if you want disable force sub
@@ -27,26 +27,18 @@
 
 ### EXTRA VARIABLES
 
-* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
+* `CUSTOM_CAPTION` put your Custom caption text if you want Setup Custom Caption, you can use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot-2fsub-auto-delete/blob/main/README.md#custom_caption'>fillings</a> for formatting (only for documents)
 * `DISABLE_CHANNEL_BUTTON` Put True to Disable Channel Share Button, Default if False
-* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot/blob/main/README.md#custom_stats'>fillings</a>
+* `BOT_STATS_TEXT` put your custom text for stats command, use HTML and <a href='https://github.com/Ahmed789l/File-Sharing-Premium-Bot-2fsub-auto-delete/blob/main/README.md#custom_stats'>fillings</a>
 * `USER_REPLY_TEXT` put your text to show when user sends any message, use HTML
 
 
 ### DEPLOYEMENT SUPPORT
 
-<summary>Deploy To Koyeb</summary>
-<p>
-<br>                 
-<a target="/blank" href="https://app.koyeb.com/deploy?type=git&repository=github.com/JishuDeveloper/File-Sharing-Premium-Bot&branch=2-force-subs&name=file-sharing-bot" >
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy">
-</a>
-</p>
-
 <summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/Ahmed789l/File-Sharing-Premium-Bot">
+<a href="https://heroku.com/deploy?template=https://github.com/Ahmed789l/File-Sharing-Premium-Bot-2fsub-auto-delete">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
@@ -58,7 +50,7 @@
 - Customisable welcome & Forcesub messages.
 - More than one Posts in One Link.
 - Can be deployed on heroku directly.
-- Deploy to Koyeb + Heroku + Railway.
+- Deploy to Heroku.
 - Developer Service 24x7.
 
 
